@@ -4,7 +4,7 @@ Este proyecto es una página de pago diseñada para tiendas de dispositivos elec
 
 ## Vista Previa
 
-![Captura del Proyecto](./assets/images/desktop-preview.png)
+![Captura del Proyecto](./src/assets/images/desktop-preview.webp)
 
 Puedes ver la versión demo en vivo aquí: [Device Shop Checkout](https://ibrahim-003.github.io/Device-Shop-Checkout/)
 
@@ -51,6 +51,5 @@ Puedes personalizar el contenido de esta página modificando el archivo `index.h
 - Tailwind CSS
 - Google Fonts
 
-## Autor
-
-Este proyecto fue creado por [Ibrahim Almeyda].
+## Autor 👨‍💻
+Desarrollado por **[Ibrahim Almeyda](https://github.com/Ibrahim-003)**.
